@@ -64,8 +64,8 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: "Raleway", sans-serif;
-  font-size: 1rem;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: bold;
   line-height: 1.5;
   color: #212529;
   text-align: left;
@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-  color: #f06161;
+  color: #000000;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #e91b1b;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -11432,7 +11432,7 @@ p {
 }
 
 .navbar-nav .nav-link {
-  font-size: 0.9rem;
+  font-size: 18px;
   font-weight: bold;
 }
 
