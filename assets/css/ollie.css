@@ -11734,3 +11734,13 @@ pre .code {
   /* max-width: 1000px; */
   height: auto;
 }
+
+::-webkit-scrollbar {
+  background: transparent;
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #606060;
+  border-radius: 5px;
+}
