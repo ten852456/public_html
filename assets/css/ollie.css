@@ -5164,10 +5164,10 @@ input[type="button"].btn-block {
 }
 
 .card-img-top {
-  width: 100%;
+  height: 100%;
   border-top-left-radius: calc(0 - 1px);
   border-top-right-radius: calc(0 - 1px);
-  max-width: 160px;
+  max-height: 180px;
 }
 
 .card-img-bottom {
